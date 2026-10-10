@@ -1,0 +1,10 @@
+body{background:#0b1b33;color:#e8f1ff;min-height:100vh}.top{background:#08142a;border-bottom:1px solid #12335e}.cy{color:#22d3ee}
+.side{width:210px;background:#0a1830;min-height:100vh}.side .nav-link{color:#b8d4f5}.side .nav-link:hover{color:#22d3ee}
+.card{background:#f6f9ff;color:#102a43;border:0;border-radius:12px}.card a{color:#0a6cb5}.hero{padding:6rem 1rem;background:radial-gradient(circle at top,#12426e,#0b1b33)}
+.msg{padding:.5rem .8rem;border-radius:10px;margin:.3rem 0;white-space:pre-wrap;max-width:85%}.msg.user{background:#cfeeff;margin-left:auto}.msg.assistant{background:#e6ecf5}
+.fab{position:fixed;right:18px;bottom:18px;background:#22d3ee;color:#08142a;padding:.7rem 1.1rem;border-radius:30px;font-weight:600;text-decoration:none;box-shadow:0 4px 14px #0006}
+.chip{cursor:pointer}.stat-card .fs-2{line-height:1}
+.prewrap{white-space:pre-wrap}
+.badge-stack span{margin-right:.25rem}
+.muted{color:#9db8da}
+@media(max-width:767px){.side{width:100%;min-height:0}}
